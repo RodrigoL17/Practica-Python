@@ -1,0 +1,7 @@
+setup.py
+Ejercicio2Python.egg-info/PKG-INFO
+Ejercicio2Python.egg-info/SOURCES.txt
+Ejercicio2Python.egg-info/dependency_links.txt
+Ejercicio2Python.egg-info/top_level.txt
+Practica1/Ejercicio1.py
+Practica2/Ejercicio2.py
